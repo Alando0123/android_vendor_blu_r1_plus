@@ -1,1 +1,1 @@
-# android_vendor_blu_r1_plus
+# BLU R1 PLUS Vendor Files  by Alando Angatiah  
